@@ -6,8 +6,8 @@ It allows parents to set a budget for their children and monitor their spending.
 
 ## Authors
 
-- [Nash Baek](nash4comp@gmail.com), A01243888
-- [Taylor Ji](taylor.ji719@gmail.com), A01304056
+- [Nash Baek]
+- [Taylor Ji]
 
 UML diagram: https://app.diagrams.net/#G1DUxHF4SH4QveN8GbqGaHewuu07bC5lDG
 
